@@ -1,0 +1,16 @@
+body {
+  background-color: White;
+}
+header {
+  background-color: White;
+  font-color: "000000";
+}
+h1 {
+  text-align: center;
+  color: black;
+  font-size: "5.0px";
+}
+footer {
+  background-color: White;
+  font-color: "000000";
+} 
